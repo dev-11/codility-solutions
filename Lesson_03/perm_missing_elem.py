@@ -1,9 +1,8 @@
 def solution(A):
-    n = len(A)
-    correct_sum = (n+1)*(n+2)//2
-  
-    for i in range(n):
-       correct_sum = correct_sum - A[i]
+    n = len(A)+1
+    total_sum = n * (n + 1)//2
 
-    return correct_sum
+    return total_sum - sum(A)
+
+
 
