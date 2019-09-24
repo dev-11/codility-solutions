@@ -4,5 +4,3 @@ def solution(A):
 
     return total_sum - sum(A)
 
-
-
