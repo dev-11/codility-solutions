@@ -1,3 +1,3 @@
 # codility-solutions
 
-.
+..
