@@ -1,6 +1,3 @@
-import sys
-
-
 def solution(A):
     left = sum(A[1:])
     right = A[0]
