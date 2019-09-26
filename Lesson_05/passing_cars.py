@@ -10,6 +10,3 @@ def solution(A):
             return -1
     return sum
 
-
-print(solution([0, 1, 0, 1, 1]))
-
