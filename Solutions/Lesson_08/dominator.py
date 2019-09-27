@@ -1,13 +1,13 @@
 def solution(A):
     if not len(A):
         return -1
-    dict = {}
+    dictionary = {}
     for _ in A:
-        if dict.get(_) == None:
-            dict[_] = 1
+        if dictionary.get(_) is None:
+            dictionary[_] = 1
         else:
-            dict[_] += 1
+            dictionary[_] += 1
 
-    m = list(dict.keys())[list(dict.values()).index(max(dict.values()))]
-    return A.index(m) if dict[m] > len(A) / 2 else -1
+    m = list(dictionary.keys())[list(dictionary.values()).index(max(dictionary.values()))]
+    return A.index(m) if dictionary[m] > len(A) / 2 else -1
 

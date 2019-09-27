@@ -11,7 +11,7 @@ def solution(S):
         elif _ == closing:
             if len(q) == 0:
                 return 0
-            bracket = q.pop()
+            q.pop()
 
     return int(len(q) == 0)
 
