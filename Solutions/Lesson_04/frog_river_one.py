@@ -1,7 +1,7 @@
 def solution(X, A):
     B = [False] * max(A)
     counter = 0
-    for _ in range(len(A)):
+    for _, elem in enumerate(A):
         idx = A[_] - 1
         if not B[idx]:
             B[idx] = True
