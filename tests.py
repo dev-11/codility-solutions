@@ -77,7 +77,7 @@ class Lesson04Tests(unittest.TestCase):
 
 
 class Lesson05Tests(unittest.TestCase):
-    def test_passing_cars(self):
+    def test_passing_cars_sample_test_01(self):
         a = [0, 1, 0, 1, 1]
         res = Lesson05.passing_cars(a)
         self.assertEqual(5, res)
@@ -86,7 +86,27 @@ class Lesson05Tests(unittest.TestCase):
 # class Lesson06Tests(unittest.TestCase):
 
 
-# class Lesson07Tests(unittest.TestCase):
+class Lesson07Tests(unittest.TestCase):
+    def test_brackets_sample_test_01(self):
+        s = "{[()()]}"
+        res = Lesson07.brackets(s)
+        self.assertEqual(res, 1)
+
+    def test_brackets_sample_test_02(self):
+        s = "([)()]"
+        res = Lesson07.brackets(s)
+        self.assertEqual(res, 0)
+
+    def test_nesting_sample_test_01(self):
+        s = "(()(())())"
+        res = Lesson07.nesting(s)
+        self.assertEqual(res, 1)
+
+    def test_nesting_sample_test_02(self):
+        s = "())"
+        res = Lesson07.nesting(s)
+        self.assertEqual(res, 0)
+
 
 
 class Lesson08Tests(unittest.TestCase):
