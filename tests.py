@@ -76,5 +76,12 @@ class Lesson04Tests(unittest.TestCase):
         self.assertEqual(0, res)
 
 
+class Lesson05Tests(unittest.TestCase):
+    def test_passing_cars(self):
+        a = [0, 1, 0, 1, 1]
+        res = Lesson05.passing_cars(a)
+        self.assertEqual(5, res)
+
+
 if __name__ == '__main__':
     unittest.main()
