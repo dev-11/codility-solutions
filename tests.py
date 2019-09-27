@@ -1,6 +1,5 @@
 import unittest
-import Solutions.Lesson_01 as Lesson01
-import Solutions.Lesson_02 as Lesson02
+from Solutions import *
 
 
 class Lesson01Tests(unittest.TestCase):
