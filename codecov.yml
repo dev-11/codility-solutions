@@ -28,9 +28,8 @@ comment:
 ignore:
   - "test*.py"
   - "**/test*.py"
-  - "**/*test.py"
+  - "**/*tests.py"
   - "**/config.py"
   - "config.py"
   - "**/__init__.py"
-  - "Tests/**"
 
