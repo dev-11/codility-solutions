@@ -6,10 +6,10 @@ install:
   #- pip install -r requirements.txt
   - pip install codecov
   - pip install pytest-cov
+  - pip install codacy-coverage
 script:
-  #- pytest tests.py --cov-report=xml --cov=.
-  #- codeclimate-test-reporter --file .coverage
   - coverage run -m pytest Tests/*tests.py --cov-report=xml --cov=.
 
 after_success:
   - codecov
+  - python-codacy-coverage -r coverage.xml
