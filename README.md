@@ -175,3 +175,13 @@ Ladder | [Challenge statement](https://app.codility.com/programmers/lessons/13-f
 FibFrog | [Challenge statement](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/fib_frog/)
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+
+## Lesson 14 - [Binary search algorithm](https://codility.com/media/train/12-BinarySearch.pdf)
+
+MinMaxDivision | [Challenge statement](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/)
+
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+
+NailingPlanks | [Challenge statement](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/nailing_planks/)
+
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
