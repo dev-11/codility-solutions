@@ -16,7 +16,6 @@ OddOccurrencesInArray | [Challange statement](https://app.codility.com/programme
 
 CyclicRotation | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) | [Solution](Solutions/Lesson_02/cyclic_rotation.py)
 
-
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
 ## Lesson 03 - [Time Complexity](https://codility.com/media/train/1-TimeComplexity.pdf)
@@ -32,7 +31,6 @@ PermMissingElem | [Challenge statement](https://app.codility.com/programmers/les
 TapeEquilibrium  | [Challenge statement](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | [Solution](Solutions/Lesson_03/tape_equilibrium.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
-
 
 ## Lesson 04 - [Counting Elements](https://codility.com/media/train/2-CountingElements.pdf)
 
@@ -71,7 +69,6 @@ CountDiv | [Challenge statement](https://app.codility.com/programmers/lessons/5-
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
 ## Lesson 06 - [Sorting](https://codility.com/media/train/4-Sorting.pdf)
-
 
 MaxProductOfThree | [Challenge statement](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/) | [Solution](Solutions/Lesson_06/max_product_of_three.py)
 
