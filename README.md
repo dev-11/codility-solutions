@@ -3,13 +3,13 @@
 [![Build Status](https://travis-ci.org/dev-11/codility-solutions.svg?branch=master)](https://travis-ci.org/dev-11/codility-solutions) [![codecov](https://codecov.io/gh/dev-11/codility-solutions/branch/master/graph/badge.svg)](https://codecov.io/gh/dev-11/codility-solutions) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8f50c983d55d42fda44c3832080e94fc)](https://www.codacy.com/manual/dev-11/codility-solutions?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dev-11/codility-solutions&amp;utm_campaign=Badge_Grade)
 
 
-## Lesson 01 - Iterations | [Training material](https://codility.com/media/train/Iterations.pdf)
+## Lesson 01 - [Iterations](https://codility.com/media/train/Iterations.pdf)
 
 #### BinaryGap | [Challange statement](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [Solution](Solutions/Lesson_01/binary_gap.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-## Lesson 02 - Arrays | [Training material](https://codility.com/media/train/0-Arrays.pdf)
+## Lesson 02 - [Arrays](https://codility.com/media/train/0-Arrays.pdf)
 
 #### OddOccurrencesInArray | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | [Solution](Solutions/Lesson_02/odd_occurrences_in_array.py)
 
@@ -20,7 +20,7 @@
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-## Lesson 03 - Time Complexity | [Training material](https://codility.com/media/train/1-TimeComplexity.pdf)
+## Lesson 03 - [Time Complexity](https://codility.com/media/train/1-TimeComplexity.pdf)
 
 #### FrogJmp
 
@@ -35,7 +35,7 @@
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
 
-## Lesson 04 - Counting Elements | [Training material](https://codility.com/media/train/2-CountingElements.pdf)
+## Lesson 04 - [Counting Elements](https://codility.com/media/train/2-CountingElements.pdf)
 
 #### PermCheck
 
@@ -55,7 +55,7 @@
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
 
-## Lesson 05 - Prefix Sums | [Training material](https://codility.com/media/train/3-PrefixSums.pdf)
+## Lesson 05 - [Prefix Sums](https://codility.com/media/train/3-PrefixSums.pdf)
 
 #### PassingCars
 
@@ -73,7 +73,7 @@
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
-## Lesson 06 - Sorting | [Training material](https://codility.com/media/train/4-Sorting.pdf)
+## Lesson 06 - [Sorting](https://codility.com/media/train/4-Sorting.pdf)
 
 
 #### MaxProductOfThree
@@ -92,7 +92,7 @@
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
-## Lesson 07 - Stacks and Queues | [Training material](https://codility.com/media/train/5-Stacks.pdf)
+## Lesson 07 - [Stacks and Queues](https://codility.com/media/train/5-Stacks.pdf)
 
 #### Brackets
 
@@ -111,7 +111,7 @@
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
 
-## Lesson 08 - Leader | [Training material](https://codility.com/media/train/6-Leader.pdf)
+## Lesson 08 - [Leader](https://codility.com/media/train/6-Leader.pdf)
 
 ### Dominator
 
@@ -121,7 +121,7 @@
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
-## Lesson 09 - Maximum slice problem | [Training material](https://codility.com/media/train/7-MaxSlice.pdf)
+## Lesson 09 - [Maximum slice problem](https://codility.com/media/train/7-MaxSlice.pdf)
 
 ### MaxProfit
 
