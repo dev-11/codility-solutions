@@ -155,3 +155,14 @@ CountSemiprimes | [Challenge statement](https://app.codility.com/programmers/les
 CountNonDivisible | [Challenge statement](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/)
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+
+## Lesson 12 - [Euclidean algorithm](https://codility.com/media/train/10-Gcd.pdf)
+
+
+ChocolatesByNumbers | [Challenge statement](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/)
+
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+
+CommonPrimeDivisors | [Challenge statement](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/common_prime_divisors/)
+
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
