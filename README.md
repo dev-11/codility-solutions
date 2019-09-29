@@ -120,7 +120,7 @@
 
 ### EquiLeader
 
-[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-ligthgrey)](https://img.shields.io/badge/score-0%25-ligthgrey) 
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
 ## Lesson 09 - Maximum slice problem | [Training material](https://codility.com/media/train/7-MaxSlice.pdf)
 
