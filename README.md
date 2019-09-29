@@ -5,11 +5,10 @@
 
 ## Lesson 01 - Iterations | [Training material](https://codility.com/media/train/Iterations.pdf)
 
-#### BinaryGap
+#### BinaryGap | [Challange statement](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [Solution](Solutions/Lesson_01/binary_gap.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-[Challange statement](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) and [Solution](Solutions/Lesson_01/binary_gap.py)
 
 ## Lesson 02 - Arrays | [Training material](https://codility.com/media/train/0-Arrays.pdf)
 
