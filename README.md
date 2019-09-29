@@ -15,11 +15,10 @@
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-#### CyclicRotation
+#### CyclicRotation | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) | [Solution](Solutions/Lesson_02/cyclic_rotation.py)
+
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
-
-[Challange statement](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) and [Solution](Solutions/Lesson_02/cyclic_rotation.py)
 
 ## Lesson 03 - Time Complexity | [Training material](https://codility.com/media/train/1-TimeComplexity.pdf)
 
