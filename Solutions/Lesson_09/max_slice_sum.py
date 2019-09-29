@@ -6,4 +6,3 @@ def solution(A):
         max_sum = max(max_sum, slice_sum)
     return max_sum
 
-print(solution([3, 2, -6, 4, 0]))
