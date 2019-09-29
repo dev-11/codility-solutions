@@ -4,32 +4,32 @@
 
 ## Lesson 01 - [Iterations](https://codility.com/media/train/Iterations.pdf)
 
-#### BinaryGap | [Challange statement](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [Solution](Solutions/Lesson_01/binary_gap.py)
+BinaryGap | [Challange statement](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [Solution](Solutions/Lesson_01/binary_gap.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
 ## Lesson 02 - [Arrays](https://codility.com/media/train/0-Arrays.pdf)
 
-#### OddOccurrencesInArray | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | [Solution](Solutions/Lesson_02/odd_occurrences_in_array.py)
+OddOccurrencesInArray | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | [Solution](Solutions/Lesson_02/odd_occurrences_in_array.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-#### CyclicRotation | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) | [Solution](Solutions/Lesson_02/cyclic_rotation.py)
+CyclicRotation | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) | [Solution](Solutions/Lesson_02/cyclic_rotation.py)
 
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
 ## Lesson 03 - [Time Complexity](https://codility.com/media/train/1-TimeComplexity.pdf)
 
-#### FrogJmp
+FrogJmp
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-#### PermMissingElem
+PermMissingElem
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-#### TapeEquilibrium
+TapeEquilibrium
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
