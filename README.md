@@ -204,3 +204,12 @@ MinAbsSumOfTwo | [Challenge statement](https://app.codility.com/programmers/less
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
+## Lesson 16 - [Greedy algorithms](https://codility.com/media/train/14-GreedyAlgorithms.pdf)
+
+TieRopes | [Challenge statement](https://app.codility.com/programmers/lessons/16-greedy_algorithms/tie_ropes/)
+
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey)
+
+MaxNonoverlappingSegments | [Challenge statement](https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/)
+
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey)
