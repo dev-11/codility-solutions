@@ -9,8 +9,3 @@ def solution(A):
         max_profit = max(max_profit, share - prev_min_share)
     return max_profit
 
-
-print(solution([23171, 21011, 21123, 21366, 21013, 21367]))
-
-#A = [23171, 21011, 21123, 21366, 21013, 21367]
-
