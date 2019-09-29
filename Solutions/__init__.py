@@ -6,3 +6,5 @@ import Solutions.Lesson_05 as Lesson05
 import Solutions.Lesson_06 as Lesson06
 import Solutions.Lesson_07 as Lesson07
 import Solutions.Lesson_08 as Lesson08
+import Solutions.Lesson_09 as Lesson09
+
