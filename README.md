@@ -36,19 +36,19 @@ TapeEquilibrium  | [Challenge statement](https://app.codility.com/programmers/le
 
 ## Lesson 04 - [Counting Elements](https://codility.com/media/train/2-CountingElements.pdf)
 
-#### PermCheck
+PermCheck | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) | [Solution](Solutions/Lesson_04/perm_check.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-#### FrogRiverOne
+FrogRiverOne | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | [Solution](Solutions/Lesson_04/frog_river_one.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-#### MaxCounters
+MaxCounters | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
-#### MissingInteger
+MissingInteger | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
