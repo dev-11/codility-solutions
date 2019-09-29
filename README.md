@@ -185,3 +185,22 @@ MinMaxDivision | [Challenge statement](https://app.codility.com/programmers/less
 NailingPlanks | [Challenge statement](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/nailing_planks/)
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+
+## Lesson 15 - [Caterpillar method](https://codility.com/media/train/13-CaterpillarMethod.pdf)
+
+CountDistinctSlices | [Challenge statement](https://app.codility.com/programmers/lessons/15-caterpillar_method/count_distinct_slices/)
+
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey)
+
+CountTriangles | [Challenge statement](https://app.codility.com/programmers/lessons/15-caterpillar_method/count_triangles/)
+
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey)
+
+AbsDistinct | [Challenge statement](https://app.codility.com/programmers/lessons/15-caterpillar_method/abs_distinct/)
+
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey)
+
+MinAbsSumOfTwo | [Challenge statement](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/nailing_planks/)
+
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+
