@@ -44,11 +44,11 @@ FrogRiverOne | [Challenge statement](https://app.codility.com/programmers/lesson
 
 MaxCounters | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
 
-[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
 MissingInteger | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)
 
-[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
 ## Lesson 05 - [Prefix Sums](https://codility.com/media/train/3-PrefixSums.pdf)
 
@@ -58,11 +58,11 @@ PassingCars | [Challenge statement](https://app.codility.com/programmers/lessons
 
 GenomicRangeQuery | [Challenge statement](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
 
-[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
 MinAvgTwoSlice | [Challenge statement](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)
 
-[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
 CountDiv | [Challenge statement](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)
 
@@ -213,3 +213,13 @@ TieRopes | [Challenge statement](https://app.codility.com/programmers/lessons/16
 MaxNonoverlappingSegments | [Challenge statement](https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey)
+
+## Lesson 17 - [Dynamic programming](https://codility.com/media/train/15-DynamicProgramming.pdf)
+
+NumberSolitaire | [Challenge statement](https://app.codility.com/programmers/lessons/17-dynamic_programming/number_solitaire/)
+
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+
+MinAbsSum | [Challenge statement](https://app.codility.com/programmers/lessons/17-dynamic_programming/min_abs_sum/)
+
+[![ambitious](https://img.shields.io/badge/difficulty-ambitious-4BA0A5)](https://img.shields.io/badge/difficulty-ambitious-4BA0A5) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
