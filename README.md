@@ -127,3 +127,21 @@ MaxSliceSum | [Challenge statement](https://app.codility.com/programmers/lessons
 MaxDoubleSliceSum | [Challenge statement](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+
+## Lesson 10 - [Prime and composite numbers](https://codility.com/media/train/8-PrimeNumbers.pdf)
+
+CountFactors | [Challenge statement](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
+
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+
+MinPerimeterRectangle | [Challenge statement](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
+
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey)
+
+Peaks | [Challenge statement](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/)
+
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+
+Flags | [Challenge statement](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
+
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
