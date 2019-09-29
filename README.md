@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.org/dev-11/codility-solutions.svg?branch=master)](https://travis-ci.org/dev-11/codility-solutions) [![codecov](https://codecov.io/gh/dev-11/codility-solutions/branch/master/graph/badge.svg)](https://codecov.io/gh/dev-11/codility-solutions) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8f50c983d55d42fda44c3832080e94fc)](https://www.codacy.com/manual/dev-11/codility-solutions?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dev-11/codility-solutions&amp;utm_campaign=Badge_Grade)
 
-
 ## Lesson 01 - [Iterations](https://codility.com/media/train/Iterations.pdf)
 
 #### BinaryGap | [Challange statement](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [Solution](Solutions/Lesson_01/binary_gap.py)
@@ -49,11 +48,9 @@
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
-
 #### MissingInteger
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
-
 
 ## Lesson 05 - [Prefix Sums](https://codility.com/media/train/3-PrefixSums.pdf)
 
@@ -61,7 +58,7 @@
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-### GenomicRangeQuery
+#### GenomicRangeQuery
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
@@ -110,27 +107,26 @@
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-
 ## Lesson 08 - [Leader](https://codility.com/media/train/6-Leader.pdf)
 
-### Dominator
+#### Dominator
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-### EquiLeader
+#### EquiLeader
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
 ## Lesson 09 - [Maximum slice problem](https://codility.com/media/train/7-MaxSlice.pdf)
 
-### MaxProfit
+#### MaxProfit
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-### MaxSliceSum
+#### MaxSliceSum
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-### MaxDoubleSliceSum
+#### MaxDoubleSliceSum
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
