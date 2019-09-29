@@ -9,14 +9,11 @@
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-
 ## Lesson 02 - Arrays | [Training material](https://codility.com/media/train/0-Arrays.pdf)
 
-#### OddOccurrencesInArray
+#### OddOccurrencesInArray | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | [Solution](Solutions/Lesson_02/odd_occurrences_in_array.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
-
-[Challange statement](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) and [Solution](Solutions/Lesson_02/odd_occurrences_in_array.py)
 
 #### CyclicRotation
 
