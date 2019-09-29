@@ -6,7 +6,7 @@
 
 BinaryGap | [Challange statement](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [Solution](Solutions/Lesson_01/binary_gap.py)
 
-[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
+![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3) ![score](https://img.shields.io/badge/score-100%25-brightgreen)
 
 ## Lesson 02 - [Arrays](https://codility.com/media/train/0-Arrays.pdf)
 
