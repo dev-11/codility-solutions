@@ -119,14 +119,14 @@ EquiLeader | [Challenge statement](https://app.codility.com/programmers/lessons/
 
 ## Lesson 09 - [Maximum slice problem](https://codility.com/media/train/7-MaxSlice.pdf)
 
-MaxProfit | [Challenge statement]()
+MaxProfit | [Challenge statement](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/) | [Solution](Solutions/Lesson_09/max_profit.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-MaxSliceSum | [Challenge statement]()
+MaxSliceSum | [Challenge statement](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/) | [Solution](Solutions/Lesson_09/max_slice_sum.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-MaxDoubleSliceSum | [Challenge statement]()
+MaxDoubleSliceSum | [Challenge statement](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
