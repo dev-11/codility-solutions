@@ -109,11 +109,11 @@ StoneWall | [Challenge statement](https://app.codility.com/programmers/lessons/7
 
 ## Lesson 08 - [Leader](https://codility.com/media/train/6-Leader.pdf)
 
-Dominator | [Challenge statement]()
+Dominator | [Challenge statement](https://app.codility.com/programmers/lessons/8-leader/dominator/) | [Solution](Solutions/Lesson_08/dominator.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-EquiLeader | [Challenge statement]()
+EquiLeader | [Challenge statement](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
