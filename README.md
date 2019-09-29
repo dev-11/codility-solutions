@@ -21,15 +21,15 @@ CyclicRotation | [Challange statement](https://app.codility.com/programmers/less
 
 ## Lesson 03 - [Time Complexity](https://codility.com/media/train/1-TimeComplexity.pdf)
 
-FrogJmp
+FrogJmp | [Challenge statement](....) | [Solution](Solutions/Lesson_03/frog_jmp.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-PermMissingElem
+PermMissingElem | [Challenge statement](....) | [Solution](Solutions/Lesson_03/perm_missing_elem.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-TapeEquilibrium
+TapeEquilibrium  | [Challenge statement](....) | [Solution](Solutions/Lesson_03/tape_equilibrium.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
