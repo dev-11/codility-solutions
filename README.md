@@ -166,3 +166,13 @@ ChocolatesByNumbers | [Challenge statement](https://app.codility.com/programmers
 CommonPrimeDivisors | [Challenge statement](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/common_prime_divisors/)
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+
+# Lesson 12 - [Fibonacci numbers](https://codility.com/media/train/11-Fibonacci.pdf)
+
+Ladder | [Challenge statement](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/ladder/)
+
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+
+FibFrog | [Challenge statement](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/fib_frog/)
+
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
