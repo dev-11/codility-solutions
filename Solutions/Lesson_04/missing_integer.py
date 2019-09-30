@@ -1,11 +1,6 @@
-import numpy as np
-
-
 def solution(A):
-    arr = np.array(A)
-    arr = set(arr[arr > 0])
-    n = len(arr) + 1
-    total_sum = n * (n + 1) // 2
-
-    return total_sum - sum(arr)
-
+    arr = sorted(set([item for item in A if item > 0]))
+    for index, item in enumerate(arr):
+        if index + 1 != item:
+            return index + 1
+    return len(arr) + 1
