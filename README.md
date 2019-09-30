@@ -46,9 +46,9 @@ MaxCounters | [Challenge statement](https://app.codility.com/programmers/lessons
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
 
-MissingInteger | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)
+MissingInteger | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) | [Solution](Solutions/Lesson_05/missing_integer.py)
 
-[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-110%25-brightgreen)](https://img.shields.io/badge/score-110%25-brightgreen) 
 
 ## Lesson 05 - [Prefix Sums](https://codility.com/media/train/3-PrefixSums.pdf)
 
