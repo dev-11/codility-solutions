@@ -9,8 +9,3 @@ def solution(A):
 
     return total_sum - sum(arr)
 
-
-print(solution([1, 3, 6, 4, 1, 2]))
-print(solution([1, 2, 3]))
-print(solution([-1, -3]))
-
