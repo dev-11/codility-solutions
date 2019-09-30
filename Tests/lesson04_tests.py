@@ -18,3 +18,18 @@ class Lesson04Tests(unittest.TestCase):
         a = [4, 1, 3]
         res = Lesson04.perm_check(a)
         self.assertEqual(0, res)
+
+    def test_missing_integer_sample_test_01(self):
+        a = [1, 3, 6, 4, 1, 2]
+        res = Lesson04.missing_integer(a)
+        self.assertEqual(res, 5)
+
+    def test_missing_integer_sample_test_02(self):
+        a = [1, 2, 3]
+        res = Lesson04.missing_integer(a)
+        self.assertEqual(res, 4)
+
+    def test_missing_integer_sample_test_03(self):
+        a = [-1, -3]
+        res = Lesson04.missing_integer(a)
+        self.assertEqual(res, 1)
