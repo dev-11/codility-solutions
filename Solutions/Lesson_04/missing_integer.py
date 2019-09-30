@@ -1,8 +1,12 @@
+import numpy as np 
 def solution(A):
-    for _ in range(1, 100_000):
-        if _ not in A:
-            return _
-    return -1
+    arr = np.array(A)
+    arr = set(arr[arr > 0])
+    n = len(arr) + 1
+    total_sum = n * (n + 1) // 2
+
+    return total_sum - sum(arr)
+
 
 
 print(solution([1, 3, 6, 4, 1, 2]))
