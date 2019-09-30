@@ -1,4 +1,6 @@
-import numpy as np 
+import numpy as np
+
+
 def solution(A):
     arr = np.array(A)
     arr = set(arr[arr > 0])
@@ -6,7 +8,6 @@ def solution(A):
     total_sum = n * (n + 1) // 2
 
     return total_sum - sum(arr)
-
 
 
 print(solution([1, 3, 6, 4, 1, 2]))
