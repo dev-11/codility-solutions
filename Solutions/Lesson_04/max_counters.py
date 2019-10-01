@@ -5,9 +5,7 @@ def solution(N, A):
 
     for item in A:
         if item <= N:
-            if final_max > counters[item - 1]:
-                counters[item - 1] = final_max
-            counters[item - 1] += 1
+            counters[item - 1] = max(final_max, counters[item - 1]) + 1
             current_max = max(current_max, counters[item - 1])
         else:
             final_max = current_max
