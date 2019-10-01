@@ -56,7 +56,7 @@ PassingCars | [Challenge statement](https://app.codility.com/programmers/lessons
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-GenomicRangeQuery | [Solution](Solutions/Lesson_05/genomic_range_query.py)
+GenomicRangeQuery
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Lesson_05/genomic_range_query.py)
