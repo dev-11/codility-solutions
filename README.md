@@ -44,7 +44,7 @@ FrogRiverOne | [Challenge statement](https://app.codility.com/programmers/lesson
 
 MaxCounters | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) | [Solution](Solutions/Lesson_04/max_counters.py)
 
-[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-100%25-lightgrey)](https://img.shields.io/badge/score-100%25-lightgrey) 
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
 MissingInteger | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) | [Solution](Solutions/Lesson_04/missing_integer.py)
 
