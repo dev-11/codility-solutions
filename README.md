@@ -56,9 +56,9 @@ PassingCars | [Challenge statement](https://app.codility.com/programmers/lessons
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-GenomicRangeQuery | [Challenge statement](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
+GenomicRangeQuery | [Challenge statement](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/) | [Solution](Solutions/Lession_05/genomic_range_query.py) | [Result](https://app.codility.com/demo/results/trainingF2QPTW-GN8/)
 
-[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+[![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
 MinAvgTwoSlice | [Challenge statement](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)
 
