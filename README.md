@@ -61,7 +61,7 @@ GenomicRangeQuery
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Lesson_05/genomic_range_query.py)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
-[![Test results](https://img.shields.io/badge/codility-test_results:%20100%25-brightgreen)](https://app.codility.com/demo/results/trainingF2QPTW-GN8/)
+[![Test results](https://img.shields.io/badge/codility-test_score:%20100%25-brightgreen)](https://app.codility.com/demo/results/trainingF2QPTW-GN8/)
 
 MinAvgTwoSlice | [Challenge statement](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)
 
