@@ -29,13 +29,20 @@ BinaryGap
 
 ### Lesson 02 - [Arrays](https://codility.com/media/train/0-Arrays.pdf)
 
-OddOccurrencesInArray | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | [Solution](Solutions/Training/Lesson_02/odd_occurrences_in_array.py)
+OddOccurrencesInArray
 
-[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_02/odd_occurrences_in_array.py)
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) 
+[![Test results](https://img.shields.io/badge/codility-test_score:%20100%25-brightgreen)](https://app.codility.com/demo/results/trainingP6VAT7-5BX/)
 
-CyclicRotation | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) | [Solution](Solutions/Training/Lesson_02/cyclic_rotation.py)
 
-[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
+CyclicRotation
+
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_02/cyclic_rotation.py)
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
+[![Test results](https://img.shields.io/badge/codility-test_score:%20100%25-brightgreen)](https://app.codility.com/demo/results/trainingF42YP8-ZH3/)
 
 ### Lesson 03 - [Time Complexity](https://codility.com/media/train/1-TimeComplexity.pdf)
 
