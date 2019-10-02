@@ -4,62 +4,62 @@
 
 ## Lesson 01 - [Iterations](https://codility.com/media/train/Iterations.pdf)
 
-BinaryGap | [Challange statement](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [Solution](Solutions/Lesson_01/binary_gap.py)
+BinaryGap | [Challange statement](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [Solution](Solutions/Training/Lesson_01/binary_gap.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen)
 
 ## Lesson 02 - [Arrays](https://codility.com/media/train/0-Arrays.pdf)
 
-OddOccurrencesInArray | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | [Solution](Solutions/Lesson_02/odd_occurrences_in_array.py)
+OddOccurrencesInArray | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | [Solution](Solutions/Training/Lesson_02/odd_occurrences_in_array.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-CyclicRotation | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) | [Solution](Solutions/Lesson_02/cyclic_rotation.py)
+CyclicRotation | [Challange statement](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) | [Solution](Solutions/Training/Lesson_02/cyclic_rotation.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
 ## Lesson 03 - [Time Complexity](https://codility.com/media/train/1-TimeComplexity.pdf)
 
-FrogJmp | [Challenge statement](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) | [Solution](Solutions/Lesson_03/frog_jmp.py)
+FrogJmp | [Challenge statement](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) | [Solution](Solutions/Training/Lesson_03/frog_jmp.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-PermMissingElem | [Challenge statement](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) | [Solution](Solutions/Lesson_03/perm_missing_elem.py)
+PermMissingElem | [Challenge statement](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) | [Solution](Solutions/Training/Lesson_03/perm_missing_elem.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-TapeEquilibrium  | [Challenge statement](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | [Solution](Solutions/Lesson_03/tape_equilibrium.py)
+TapeEquilibrium  | [Challenge statement](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | [Solution](Solutions/Training/Lesson_03/tape_equilibrium.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
 ## Lesson 04 - [Counting Elements](https://codility.com/media/train/2-CountingElements.pdf)
 
-PermCheck | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) | [Solution](Solutions/Lesson_04/perm_check.py)
+PermCheck | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) | [Solution](Solutions/Training/Lesson_04/perm_check.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-FrogRiverOne | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | [Solution](Solutions/Lesson_04/frog_river_one.py)
+FrogRiverOne | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | [Solution](Solutions/Training/Lesson_04/frog_river_one.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-MaxCounters | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) | [Solution](Solutions/Lesson_04/max_counters.py)
+MaxCounters | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) | [Solution](Solutions/Training/Lesson_04/max_counters.py)
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-MissingInteger | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) | [Solution](Solutions/Lesson_04/missing_integer.py)
+MissingInteger | [Challenge statement](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) | [Solution](Solutions/Training/Lesson_04/missing_integer.py)
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-110%25-brightgreen) 
 
 ## Lesson 05 - [Prefix Sums](https://codility.com/media/train/3-PrefixSums.pdf)
 
-PassingCars | [Challenge statement](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) | [Solution](Solutions/Lesson_05/passing_cars.py)
+PassingCars | [Challenge statement](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) | [Solution](Solutions/Training/Lesson_05/passing_cars.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
 GenomicRangeQuery
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Lesson_05/genomic_range_query.py)
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_05/genomic_range_query.py)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
 [![Test results](https://img.shields.io/badge/codility-test_score:%20100%25-brightgreen)](https://app.codility.com/demo/results/trainingF2QPTW-GN8/)
 
@@ -73,15 +73,15 @@ CountDiv | [Challenge statement](https://app.codility.com/programmers/lessons/5-
 
 ## Lesson 06 - [Sorting](https://codility.com/media/train/4-Sorting.pdf)
 
-MaxProductOfThree | [Challenge statement](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/) | [Solution](Solutions/Lesson_06/max_product_of_three.py)
+MaxProductOfThree | [Challenge statement](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/) | [Solution](Solutions/Training/Lesson_06/max_product_of_three.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-Distinct | [Challenge statement](https://app.codility.com/programmers/lessons/6-sorting/distinct/) | [Solution](Solutions/Lesson_06/distinct.py)
+Distinct | [Challenge statement](https://app.codility.com/programmers/lessons/6-sorting/distinct/) | [Solution](Solutions/Training/Lesson_06/distinct.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-Triangle | [Challenge statement](https://app.codility.com/programmers/lessons/6-sorting/triangle/) | [Solution](Solutions/Lesson_06/triangle.py)
+Triangle | [Challenge statement](https://app.codility.com/programmers/lessons/6-sorting/triangle/) | [Solution](Solutions/Training/Lesson_06/triangle.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
@@ -91,25 +91,25 @@ NumberOfDiscIntersections | [Challenge statement](https://app.codility.com/progr
 
 ## Lesson 07 - [Stacks and Queues](https://codility.com/media/train/5-Stacks.pdf)
 
-Brackets | [Challenge statement](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/) | [Solution](Solutions/Lesson_07/brackets.py)
+Brackets | [Challenge statement](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/) | [Solution](Solutions/Training/Lesson_07/brackets.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-Fish | [Challenge statement](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/) | [Solution](Solutions/Lesson_07/fish.py)
+Fish | [Challenge statement](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/) | [Solution](Solutions/Training/Lesson_07/fish.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-Nesting | [Challenge statement](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/) | [Solution](Solutions/Lesson_07/nesting.py)
+Nesting | [Challenge statement](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/) | [Solution](Solutions/Training/Lesson_07/nesting.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-StoneWall | [Challenge statement](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) | [Solution](Solutions/Lesson_07/stone_wall.py)
+StoneWall | [Challenge statement](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) | [Solution](Solutions/Training/Lesson_07/stone_wall.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
 ## Lesson 08 - [Leader](https://codility.com/media/train/6-Leader.pdf)
 
-Dominator | [Challenge statement](https://app.codility.com/programmers/lessons/8-leader/dominator/) | [Solution](Solutions/Lesson_08/dominator.py)
+Dominator | [Challenge statement](https://app.codility.com/programmers/lessons/8-leader/dominator/) | [Solution](Solutions/Training/Lesson_08/dominator.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
@@ -119,11 +119,11 @@ EquiLeader | [Challenge statement](https://app.codility.com/programmers/lessons/
 
 ## Lesson 09 - [Maximum slice problem](https://codility.com/media/train/7-MaxSlice.pdf)
 
-MaxProfit | [Challenge statement](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/) | [Solution](Solutions/Lesson_09/max_profit.py)
+MaxProfit | [Challenge statement](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/) | [Solution](Solutions/Training/Lesson_09/max_profit.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
-MaxSliceSum | [Challenge statement](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/) | [Solution](Solutions/Lesson_09/max_slice_sum.py)
+MaxSliceSum | [Challenge statement](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/) | [Solution](Solutions/Training/Lesson_09/max_slice_sum.py)
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
 
