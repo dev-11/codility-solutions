@@ -204,20 +204,24 @@ EquiLeader
 
 ### Lesson 09 - [Maximum slice problem](https://codility.com/media/train/7-MaxSlice.pdf)
 
-MaxProfit | [Challenge statement](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/) | [Solution](Solutions/Training/Lesson_09/max_profit.py)
+MaxProfit
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_09/max_profit.py)
 
-MaxSliceSum | [Challenge statement](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/) | [Solution](Solutions/Training/Lesson_09/max_slice_sum.py)
+MaxSliceSum
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_09/max_slice_sum.py)
 
-MaxDoubleSliceSum | [Challenge statement](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
+MaxDoubleSliceSum
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
