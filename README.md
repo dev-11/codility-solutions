@@ -139,7 +139,7 @@ Distinct
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/6-sorting/distinct/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/trainingGP3MJM-T4Y/)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_06/distinct.py)
 
 Triangle
