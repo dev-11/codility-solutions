@@ -6,7 +6,7 @@
 
 ### Omega 2013 🥇
 
-[![Golder Certificate](https://img.shields.io/badge/codility-gold_certificate-goldenrod)](https://app.codility.com/cert/view/cert3ATJSQ-B39RFYHTZT4R9XNH/)
+[![Golden Certificate](https://img.shields.io/badge/codility-golden_certificate-goldenrod)](https://app.codility.com/cert/view/cert3ATJSQ-B39RFYHTZT4R9XNH/)
   
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Challenges/omega_2013.py)
