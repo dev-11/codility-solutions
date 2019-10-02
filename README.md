@@ -51,21 +51,21 @@ FrogJmp
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_03/frog_jmp.py)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](#)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/trainingBA6R3U-JKV/)
 
 PermMissingElem
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_03/perm_missing_elem.py)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](#)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/trainingCHM7XU-55S/)
 
 TapeEquilibrium
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_03/tape_equilibrium.py)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](#)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training5MGPVR-KR4/)
 
 ### Lesson 04 - [Counting Elements](https://codility.com/media/train/2-CountingElements.pdf)
 
@@ -74,28 +74,28 @@ PermCheck
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_04/perm_check.py)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](#)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/trainingAWYYEZ-VAE/)
 
 FrogRiverOne
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_04/frog_river_one.py)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](#)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/trainingC7N6NJ-ZMD/)
 
 MaxCounters
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_04/max_counters.py)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](#)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training2CDNWK-TAG/)
 
 MissingInteger
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_04/missing_integer.py)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](#)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training5V2498-5EH/)
 
 ### Lesson 05 - [Prefix Sums](https://codility.com/media/train/3-PrefixSums.pdf)
 
@@ -104,7 +104,7 @@ PassingCars
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_05/passing_cars.py)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](#)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/trainingYMPMUR-WEB/)
 
 GenomicRangeQuery
 
