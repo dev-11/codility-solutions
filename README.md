@@ -20,9 +20,12 @@
 
 ### Lesson 01 - [Iterations](https://codility.com/media/train/Iterations.pdf)
 
-BinaryGap | [Challange statement](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [Solution](Solutions/Training/Lesson_01/binary_gap.py)
+BinaryGap
 
-[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3) [![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen)
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_01/binary_gap.py)
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
+[![Test results](https://img.shields.io/badge/codility-test_score:%20100%25-brightgreen)](https://app.codility.com/demo/results/trainingWHNFAY-TQ8/)
 
 ### Lesson 02 - [Arrays](https://codility.com/media/train/0-Arrays.pdf)
 
