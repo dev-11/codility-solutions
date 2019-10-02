@@ -113,15 +113,20 @@ GenomicRangeQuery
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
 [![Test results](https://img.shields.io/badge/codility-test_score:%20100%25-brightgreen)](https://app.codility.com/demo/results/trainingF2QPTW-GN8/)
 
-MinAvgTwoSlice | [Challenge statement](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)
+MinAvgTwoSlice
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+[![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)](#)
 
-CountDiv | [Challenge statement](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)
+
+CountDiv
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![score](https://img.shields.io/badge/score-0%25-lightgrey)](https://img.shields.io/badge/score-0%25-lightgrey) 
+[![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)](#)
 
 ### Lesson 06 - [Sorting](https://codility.com/media/train/4-Sorting.pdf)
 
