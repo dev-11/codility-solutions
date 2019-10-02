@@ -7,5 +7,6 @@ import Solutions.Training.Lesson_06 as Lesson06
 import Solutions.Training.Lesson_07 as Lesson07
 import Solutions.Training.Lesson_08 as Lesson08
 import Solutions.Training.Lesson_09 as Lesson09
+import Solutions.Training.Lesson_10 as Lesson10
 
 import Solutions.Challenges as Challenges
