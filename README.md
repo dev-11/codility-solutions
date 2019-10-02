@@ -183,7 +183,7 @@ StoneWall
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/trainingBUXHKJ-4SW/)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_07/stone_wall.py)
 
 ### Lesson 08 - [Leader](https://codility.com/media/train/6-Leader.pdf)
