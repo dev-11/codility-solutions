@@ -4,7 +4,7 @@
 
 ## Challenges
 
-### Omega 2016 🥇
+### Omega 2013 🥇
 
 FallingDisks
 
