@@ -192,13 +192,13 @@ Dominator
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/8-leader/dominator/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training8G3VAG-RVT/)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_08/dominator.py)
 
-EquiLeader | [Challenge statement](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
+EquiLeader
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
