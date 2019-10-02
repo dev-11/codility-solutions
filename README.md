@@ -158,25 +158,33 @@ NumberOfDiscIntersections
 
 ### Lesson 07 - [Stacks and Queues](https://codility.com/media/train/5-Stacks.pdf)
 
-Brackets | [Challenge statement](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/) | [Solution](Solutions/Training/Lesson_07/brackets.py)
+Brackets
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_07/brackets.py)
 
-Fish | [Challenge statement](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/) | [Solution](Solutions/Training/Lesson_07/fish.py)
-
-[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
-
-Nesting | [Challenge statement](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/) | [Solution](Solutions/Training/Lesson_07/nesting.py)
+Fish
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_07/fish.py)
 
-StoneWall | [Challenge statement](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) | [Solution](Solutions/Training/Lesson_07/stone_wall.py)
+Nesting
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_07/nesting.py)
+
+StoneWall
+
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_07/stone_wall.py)
 
 ### Lesson 08 - [Leader](https://codility.com/media/train/6-Leader.pdf)
 
