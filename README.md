@@ -128,20 +128,26 @@ CountDiv
 
 ### Lesson 06 - [Sorting](https://codility.com/media/train/4-Sorting.pdf)
 
-MaxProductOfThree | [Challenge statement](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/) | [Solution](Solutions/Training/Lesson_06/max_product_of_three.py)
+MaxProductOfThree
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_06/max_product_of_three.py)
 
-Distinct | [Challenge statement](https://app.codility.com/programmers/lessons/6-sorting/distinct/) | [Solution](Solutions/Training/Lesson_06/distinct.py)
-
-[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
-
-Triangle | [Challenge statement](https://app.codility.com/programmers/lessons/6-sorting/triangle/) | [Solution](Solutions/Training/Lesson_06/triangle.py)
+Distinct
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/6-sorting/distinct/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_06/distinct.py)
+
+Triangle
+
+[![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/6-sorting/triangle/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_06/triangle.py)
 
 NumberOfDiscIntersections
 
