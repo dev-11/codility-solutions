@@ -227,156 +227,156 @@ MaxDoubleSliceSum
 
 ### Lesson 10 - [Prime and composite numbers](https://codility.com/media/train/8-PrimeNumbers.pdf)
 
-CountFactors | [Challenge statement](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
+CountFactors
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-MinPerimeterRectangle | [Challenge statement](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
+MinPerimeterRectangle
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-Peaks | [Challenge statement](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/)
+Peaks
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-Flags | [Challenge statement](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
+Flags
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
 ### Lesson 11 - [Sieve of Eratosthenes](https://codility.com/media/train/9-Sieve.pdf)
 
-CountSemiprimes | [Challenge statement](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_semiprimes/)
+CountSemiprimes
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_semiprimes/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-CountNonDivisible | [Challenge statement](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/)
+CountNonDivisible
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
 ### Lesson 12 - [Euclidean algorithm](https://codility.com/media/train/10-Gcd.pdf)
 
-ChocolatesByNumbers | [Challenge statement](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/)
+ChocolatesByNumbers
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-CommonPrimeDivisors | [Challenge statement](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/common_prime_divisors/)
+CommonPrimeDivisors | [Challenge statement]()
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/common_prime_divisors/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
 ### Lesson 13 - [Fibonacci numbers](https://codility.com/media/train/11-Fibonacci.pdf)
 
-Ladder | [Challenge statement](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/ladder/)
+Ladder
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/ladder/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-FibFrog | [Challenge statement](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/fib_frog/)
+FibFrog
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/fib_frog/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
 ### Lesson 14 - [Binary search algorithm](https://codility.com/media/train/12-BinarySearch.pdf)
 
-MinMaxDivision | [Challenge statement](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/)
+MinMaxDivision
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-NailingPlanks | [Challenge statement](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/nailing_planks/)
+NailingPlanks
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/nailing_planks/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
 ### Lesson 15 - [Caterpillar method](https://codility.com/media/train/13-CaterpillarMethod.pdf)
 
-CountDistinctSlices | [Challenge statement](https://app.codility.com/programmers/lessons/15-caterpillar_method/count_distinct_slices/)
+CountDistinctSlices
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/15-caterpillar_method/count_distinct_slices/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-CountTriangles | [Challenge statement](https://app.codility.com/programmers/lessons/15-caterpillar_method/count_triangles/)
+CountTriangles
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/15-caterpillar_method/count_triangles/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-AbsDistinct | [Challenge statement](https://app.codility.com/programmers/lessons/15-caterpillar_method/abs_distinct/)
+AbsDistinct
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/15-caterpillar_method/abs_distinct/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-MinAbsSumOfTwo | [Challenge statement](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/nailing_planks/)
+MinAbsSumOfTwo
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/nailing_planks/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
 ### Lesson 16 - [Greedy algorithms](https://codility.com/media/train/14-GreedyAlgorithms.pdf)
 
-TieRopes | [Challenge statement](https://app.codility.com/programmers/lessons/16-greedy_algorithms/tie_ropes/)
+TieRopes
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/16-greedy_algorithms/tie_ropes/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-MaxNonoverlappingSegments | [Challenge statement](https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/)
+MaxNonoverlappingSegments
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
 ### Lesson 17 - [Dynamic programming](https://codility.com/media/train/15-DynamicProgramming.pdf)
 
-NumberSolitaire | [Challenge statement](https://app.codility.com/programmers/lessons/17-dynamic_programming/number_solitaire/)
+NumberSolitaire
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-7FC1E3)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/17-dynamic_programming/number_solitaire/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-MinAbsSum | [Challenge statement](https://app.codility.com/programmers/lessons/17-dynamic_programming/min_abs_sum/)
+MinAbsSum
 
 [![ambitious](https://img.shields.io/badge/difficulty-ambitious-4BA0A5)](https://img.shields.io/badge/difficulty-ambitious-4BA0A5)
-[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/17-dynamic_programming/min_abs_sum/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
