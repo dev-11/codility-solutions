@@ -3,7 +3,7 @@ from Solutions import Lesson03
 
 
 class Lesson03Tests(unittest.TestCase):
-    def test_from_jump_sample_test_01(self):
+    def test_from_jump_example_test_01(self):
         x = 10
         y = 85
         d = 30
