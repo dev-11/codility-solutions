@@ -6,8 +6,6 @@
 
 ### Omega 2013 🥇
 
-FallingDisks
-
 [![Golder Certificate](https://img.shields.io/badge/codility-gold_certificate-goldenrod)](https://app.codility.com/cert/view/cert3ATJSQ-B39RFYHTZT4R9XNH/)
   
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
