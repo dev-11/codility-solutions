@@ -119,7 +119,6 @@ MinAvgTwoSlice
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)](#)
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
 
-
 CountDiv
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
@@ -361,4 +360,3 @@ MinAbsSum | [Challenge statement](https://app.codility.com/programmers/lessons/1
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)]()
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
 [![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
-
