@@ -188,10 +188,12 @@ StoneWall
 
 ### Lesson 08 - [Leader](https://codility.com/media/train/6-Leader.pdf)
 
-Dominator | [Challenge statement](https://app.codility.com/programmers/lessons/8-leader/dominator/) | [Solution](Solutions/Training/Lesson_08/dominator.py)
+Dominator
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
-[![score](https://img.shields.io/badge/score-100%25-brightgreen)](https://img.shields.io/badge/score-100%25-brightgreen) 
+[![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/8-leader/dominator/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)]()
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_08/dominator.py)
 
 EquiLeader | [Challenge statement](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
 
