@@ -9,7 +9,7 @@
 [![Golder Certificate](https://img.shields.io/badge/codility-gold_certificate-goldenrod)](https://app.codility.com/cert/view/cert3ATJSQ-B39RFYHTZT4R9XNH/)
   
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
-[![Solution](https://img.shields.io/badge/solution-source-orange)](#)
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/omega_2013.py)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/task/falling_disks/)
 [![Test results](https://img.shields.io/badge/codility-test_score:%20100%25-brightgreen)](https://app.codility.com/cert/view/cert3ATJSQ-B39RFYHTZT4R9XNH/details/)
 
