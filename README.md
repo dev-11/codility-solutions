@@ -6,7 +6,7 @@
 
 ### Omega 2013 🥇
 
-> I recieved the golden certificate for my a dotnet solution which I've ported to python
+> I recieved the golden certificate for my dotnet solution which I've ported to python
 
 [![Golden Certificate](https://img.shields.io/badge/codility-golden_certificate-goldenrod)](https://app.codility.com/cert/view/cert3ATJSQ-B39RFYHTZT4R9XNH/)
 [![Test results](https://img.shields.io/badge/codility-test_score:%20100%25-goldenrod)](https://app.codility.com/cert/view/cert3ATJSQ-B39RFYHTZT4R9XNH/details/)
