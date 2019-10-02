@@ -68,29 +68,25 @@ TapeEquilibrium
 
 ### Lesson 04 - [Counting Elements](https://codility.com/media/train/2-CountingElements.pdf)
 
-PermCheck
-
+- PermCheck
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/trainingAWYYEZ-VAE/)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_04/perm_check.py)
 
-FrogRiverOne
-
+- FrogRiverOne
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/trainingC7N6NJ-ZMD/)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_04/frog_river_one.py)
 
-MaxCounters
-
+- MaxCounters
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training2CDNWK-TAG/)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_04/max_counters.py)
 
-MissingInteger
-
+- MissingInteger
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training5V2498-5EH/)
