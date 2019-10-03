@@ -238,8 +238,8 @@ MinPerimeterRectangle
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
-[![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
+[![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)](https://app.codility.com/demo/results/trainingBM97C4-FEY/)
+[![Solution](https://img.shields.io/badge/solution-source-lightgrey)](Solutions/Training/Lesson_10/min_perimeter_rectangle.py)
 
 Peaks
 
