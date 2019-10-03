@@ -18,4 +18,3 @@ class Lesson10Tests(unittest.TestCase):
         res = Lesson10.min_perimeter_rectangle(n)
         self.assertEqual(24, res)
 
-
