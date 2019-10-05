@@ -192,14 +192,14 @@ Dominator
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/8-leader/dominator/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training5X2RCD-26Q/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training8G3VAG-RVT/)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_08/dominator.py)
 
 EquiLeader
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training8S68E5-M2B/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training5X2RCD-26Q/)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_08/equi_leader.py)
 
 ### Lesson 09 - [Maximum slice problem](https://codility.com/media/train/7-MaxSlice.pdf)
