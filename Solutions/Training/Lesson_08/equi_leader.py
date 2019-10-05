@@ -9,7 +9,7 @@ def solution(A):
             dictionary[_] += 1
 
     leader_count = max(dictionary.values())
-    if leader_count < len(A) / 2:
+    if leader_count <= len(A) / 2:
         return 0
 
     leader = list(
