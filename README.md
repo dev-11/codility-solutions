@@ -192,7 +192,7 @@ Dominator
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/8-leader/dominator/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training8G3VAG-RVT/)
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training5X2RCD-26Q/)
 [![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_08/dominator.py)
 
 EquiLeader
