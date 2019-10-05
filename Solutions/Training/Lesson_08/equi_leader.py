@@ -25,7 +25,7 @@ def solution(A):
             leader_on_right_count -= 1
 
         if leader_on_left_count > (i+1) // 2 \
-        and leader_on_right_count  > (len(A)-i-1)//2:
+        and leader_on_right_count > (len(A)-i-1)//2:
             equi_leader += 1
 
     return equi_leader
