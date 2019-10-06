@@ -277,9 +277,8 @@ ChocolatesByNumbers
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
-[![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
-
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/trainingKNNV77-DKW/)
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_12/chocolates_by_numbers.py)
 CommonPrimeDivisors | [Challenge statement]()
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
