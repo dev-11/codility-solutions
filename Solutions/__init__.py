@@ -10,5 +10,8 @@ import Solutions.Training.Lesson_09 as Lesson09
 import Solutions.Training.Lesson_10 as Lesson10
 import Solutions.Training.Lesson_11 as Lesson11
 import Solutions.Training.Lesson_12 as Lesson12
+import Solutions.Training.Lesson_13 as Lesson13
+import Solutions.Training.Lesson_14 as Lesson14
+import Solutions.Training.Lesson_15 as Lesson15
 
 import Solutions.Challenges as Challenges
