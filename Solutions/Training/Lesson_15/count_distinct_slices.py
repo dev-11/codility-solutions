@@ -1,12 +1,20 @@
 def solution(M, A):
-    count = 0
-    for i in range(len(A)):
-        for j in range(i, len(A)):
-            arr_slice = A[i:j+1]
-            if len(arr_slice) == len(set(arr_slice)):
-                print(f'({i}, {j}) = {arr_slice} == {set(arr_slice)}')
-                count += 1
-            else:
-                j += 1
+    total_count = 0
+    sub_count = 0
+    front = 0
+    len_a = len(A)
+    uniques = set()
 
-    return min(count, 1_000_000_000)
+    for back in range(len_a):
+        while front < len_a and A[front] not in uniques:
+            uniques.add(A[front])
+            front += 1
+            sub_count += 1
+
+        uniques.remove(A[back])
+
+        back += 1
+        total_count += sub_count
+        sub_count -= 1
+
+    return min(total_count, 1_000_000_000)
