@@ -24,3 +24,8 @@ class Lesson15Tests(unittest.TestCase):
         res = Lesson15.count_triangles(a)
         self.assertEqual(3, res)
 
+    def test_abs_distinct_example_test_01(self):
+        a = [-5, -3, -1, 0, 3, 6]
+        res = Lesson15.abs_distinct(a)
+        self.assertEqual(5, res)
+
