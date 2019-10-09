@@ -13,5 +13,6 @@ import Solutions.Training.Lesson_12 as Lesson12
 import Solutions.Training.Lesson_13 as Lesson13
 import Solutions.Training.Lesson_14 as Lesson14
 import Solutions.Training.Lesson_15 as Lesson15
+import Solutions.Training.Lesson_16 as Lesson16
 
 import Solutions.Challenges as Challenges

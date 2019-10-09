@@ -355,8 +355,8 @@ TieRopes
 
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/16-greedy_algorithms/tie_ropes/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
-[![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/trainingXCQH45-AYB/)
+[![Solution](https://img.shields.io/badge/solution-source-lightgrey)](Solutions/Training/Lesson_16/tie_ropes.py)
 
 MaxNonoverlappingSegments
 
