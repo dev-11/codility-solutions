@@ -1,5 +1,5 @@
 import unittest
-import Lesson16
+from Solutions import Lesson16
 
 
 class TieRopesTests(unittest.TestCase):
