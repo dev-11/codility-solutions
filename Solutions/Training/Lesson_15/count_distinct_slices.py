@@ -17,4 +17,4 @@ def solution(M, A):
         total_count += sub_count
         sub_count -= 1
 
-    return min(total_count, 1_000_000_000)
+    return min(total_count, 1000000000)
