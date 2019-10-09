@@ -2,7 +2,7 @@ import unittest
 from Solutions import Lesson04
 
 
-class Lesson04Tests(unittest.TestCase):
+class FrogRiverOneTests(unittest.TestCase):
     def test_frog_river_one_example_test_01(self):
         x = 5
         a = [1, 3, 1, 4, 2, 3, 5, 4]
