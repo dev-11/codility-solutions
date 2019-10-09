@@ -9,4 +9,3 @@ def solution(K, A):
             rope_count += 1
 
     return rope_count
-
