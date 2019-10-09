@@ -2,7 +2,7 @@ import unittest
 from Solutions import Lesson02
 
 
-class Lesson02Tests(unittest.TestCase):
+class CyclicRotationTests(unittest.TestCase):
     def test_cyclic_rotation_example_test_01(self):
         a = [3, 8, 9, 7, 6]
         k = 3
@@ -20,8 +20,3 @@ class Lesson02Tests(unittest.TestCase):
         k = 4
         res = Lesson02.cyclic_rotation(a, k)
         self.assertEqual([1, 2, 3, 4], res)
-
-    def test_odd_occurrences_in_array_example_test_01(self):
-        a = [9, 3, 9, 3, 9, 7, 9]
-        res = Lesson02.odd_occurrences_in_array(a)
-        self.assertEqual(7, res)
