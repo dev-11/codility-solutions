@@ -9,7 +9,4 @@ def solution(K, A):
             rope_count += 1
 
     return rope_count
-    
-
-print(solution(4, [1, 2, 3, 4, 1, 1, 3]))
 
