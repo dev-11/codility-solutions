@@ -340,7 +340,7 @@ AbsDistinct
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/15-caterpillar_method/abs_distinct/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training33EERB-PWM/)
-[![Solution](https://img.shields.io/badge/solution-source-lightgrey)](Solutions/Lesson_15/abs_distinct.py)
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_15/abs_distinct.py)
 
 MinAbsSumOfTwo
 
