@@ -363,7 +363,7 @@ MaxNonoverlappingSegments
 [![painless](https://img.shields.io/badge/difficulty-painless-7FC1E3)](https://img.shields.io/badge/difficulty-painless-7FC1E3)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/)
 [![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)]()
-[![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
+[![Solution](https://img.shields.io/badge/solution-source-yellow)](Solutions/Training/Lesson_16/max_nonoverlapping_segments.py)
 
 ### Lesson 17 - [Dynamic programming](https://codility.com/media/train/15-DynamicProgramming.pdf)
 
