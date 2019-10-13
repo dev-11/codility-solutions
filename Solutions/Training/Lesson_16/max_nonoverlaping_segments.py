@@ -1,8 +1,13 @@
 def solution(A, B):
-    length = list(zip(A, B))
-    for l in length:
-        print(l[0])
+    if len(A) == 0:
+        return 0
 
+    counter = 1
+    previous_end = B[0]
+    for _ in range(1, len(A)):
+        if A[_] > previous_end:
+            counter += 1
+            previous_end = B[_]
 
-print(solution([1, 3, 7, 9, 9], [5, 6, 8, 9, 10]))
+    return counter
 
