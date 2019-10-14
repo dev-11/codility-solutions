@@ -116,8 +116,8 @@ MinAvgTwoSlice
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)](#)
-[![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/trainingC73YNM-AW2/)
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_05/min_avg_two_slice.py)
 
 CountDiv
 
