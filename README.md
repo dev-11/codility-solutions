@@ -123,8 +123,8 @@ CountDiv
 
 [![rescpectable](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)](https://img.shields.io/badge/difficulty-rescpectable-5DC0C6)
 [![Challenge statement](https://img.shields.io/badge/codility-challenge_statement-blue)](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)
-[![Test results](https://img.shields.io/badge/codility-test_score:_0%25-lightgrey)](#)
-[![Solution](https://img.shields.io/badge/solution-source-lightgrey)]()
+[![Test results](https://img.shields.io/badge/codility-test_score:_100%25-brightgreen)](https://app.codility.com/demo/results/training2FCQEC-U86/)
+[![Solution](https://img.shields.io/badge/solution-source-orange)](Solutions/Training/Lesson_05/count_div.py)
 
 ### Lesson 06 - [Sorting](https://codility.com/media/train/4-Sorting.pdf)
 
